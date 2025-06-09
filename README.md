@@ -1,2 +1,2 @@
 # RuthOroghi
-Machine learning with Python
+Microsoft PowerBI Data Analyst and Machine Learning Engineer in Python
